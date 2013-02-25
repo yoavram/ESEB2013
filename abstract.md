@@ -1,5 +1,5 @@
 % Stress-induced mutation in the presence of recombination
-% Yoav Ram
+% Yoav Ram and Lilach Hadany
 % Rapid evolution and population genetics symposium
 
 Mutation is a key feature of any biological system and therefore the evolution of the mutation rate is a subject of many theoretical and experimental studies. 
