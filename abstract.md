@@ -1,4 +1,4 @@
-% Evolution of stress-induced hypermutation with and without recombination
+% Stress-induced mutation in the presence of recombination
 % Yoav Ram
 % Rapid evolution and population genetics symposium
 
